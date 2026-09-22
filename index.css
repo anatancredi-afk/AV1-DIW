@@ -1,0 +1,73 @@
+body {
+    background-color: gray;
+}
+
+
+img {
+    width: 110px;
+    
+}
+
+table {
+    width: 550px;
+    border-collapse: collapse;
+    margin: auto;
+    background-color: white;
+}
+
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align:center;
+    height: 100px;
+}   
+h1 {
+    width: 550px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin: auto;
+    
+}
+h3 {
+    
+    font-size: 20px;
+    font-weight: bold;
+    margin: auto;
+    text-align: left;
+    
+}
+h2 {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    margin: auto;
+    text-align: left;
+}
+li{
+    font-size: 15px;
+    
+    margin: auto;
+    text-align: left;
+}
+p{
+    font-size: 15px;
+    margin: auto;
+    text-align: left;
+}
+h4{
+    font-size: 15px;
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
+    text-align: left;
+}
+
+{
+    font-size: 15px;
+    margin: auto;
+    text-align: left;
+}
